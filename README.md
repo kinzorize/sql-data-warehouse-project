@@ -30,7 +30,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-![High Level Architecture](image-url)
+![High Level Architecture](https://github.com/kinzorize/sql-data-warehouse-project/blob/main/High%20level%20Architecture.png)
 
 ---
 ## 🫀 License
