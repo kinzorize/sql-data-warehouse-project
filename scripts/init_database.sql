@@ -167,6 +167,8 @@ WITH(
 );
 END;
 
+EXEC bronze.load_bronze
+
 
 
 
