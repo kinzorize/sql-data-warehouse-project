@@ -42,6 +42,6 @@ Hi there! I'm ** **Kingsley Uchechukwu Elijah** ** also known as **Kinzorize** o
 
 ![Data Flow Dagram](https://github.com/kinzorize/sql-data-warehouse-project/blob/main/Data%20Flow%20Diagram.png)
 
-![Integration Model] (https://github.com/kinzorize/sql-data-warehouse-project/blob/main/integration_model.png)
+![Integration Model](https://github.com/kinzorize/sql-data-warehouse-project/blob/main/integration_model.png)
 
 
