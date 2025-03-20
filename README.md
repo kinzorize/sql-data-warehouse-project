@@ -38,6 +38,8 @@ This project is licensed under the [MIT License] (LICENSE). You are free to use,
 
 ## 🔯 About Me
 Hi there! I'm ** **Kingsley Uchechukwu Elijah** ** also known as **Kinzorize** on YouTube & X. I am an IT professional and passionate YouTuber on a mission to share my knowledge and make my content enjoyable and engaging.
-![Data Flow Dagram]()
+
+
+![Data Flow Dagram](https://github.com/kinzorize/sql-data-warehouse-project/blob/main/Data%20Flow%20Diagram.png)
 
 
