@@ -13,7 +13,7 @@ and fact tables for specific business metrics.
   **Column:**
 
 
-| Columns Names  | Data Type      | Description    								    |
+| Columns Name  | Data Type      | Description    								    |
 |----------------|----------------|----------------								    |
 | customer_key   | INT            | Surrogate key uniquely identifying each customer record in the dimension table  |
 | customer_id  | INT | Unique numerical identifier assigned to each customer. |
@@ -25,4 +25,10 @@ and fact tables for specific business metrics.
 | gender  | NVARCHAR(50)  | The gender of the customer (e.g., 'Male', 'Female', 'n/a').  |
 | birthdate | DATE | The date of birth of the customer,formatted as YYYY-MM-DD (e.g., 1971-10-06).  |
 | create_date | DATE | The date and time when the customer record was created in the system. |
+
+
+
+**2. gold.dim_products**
+
+**Purpose:** Provides information about the products and their attributes. 
 
