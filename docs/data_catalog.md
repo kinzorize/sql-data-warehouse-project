@@ -9,12 +9,13 @@ and fact tables for specific business metrics.
 
 **1. gold.dim_customers**
 	
-	 **Purpose:** Stores customer details enriched with demographic and geographic data
+  **Purpose:** Stores customer details enriched with demographic and geographic data
+  **Column:**
 
 
-| Column 1       | Column 2       | Column 3       |
-|----------------|----------------|----------------|
-| Row 1, Cell 1  | Row 1, Cell 2  | Row 1, Cell 3  |
+| Columns Names  | Data Type      | Description    								    |
+|----------------|----------------|----------------								    |
+| Customer_key   | INT            | Surrogate key uniquely identifying each customer record in the dimension table  |
 | Row 2, Cell 1  | Row 2, Cell 2  | Row 2, Cell 3  |
 | Row 3, Cell 1  | Row 3, Cell 2  | Row 3, Cell 3  |
 | Row 4, Cell 1  | Row 4, Cell 2  | Row 4, Cell 3  |
